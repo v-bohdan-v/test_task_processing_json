@@ -1,7 +1,8 @@
 ## How to run
 1. Download the project by HTTPS or SSH using CLI and git clone <copied_link>.
-2. Install requirements.txt using CLI pip install -r requirements.txt.
-3. Run the tests in the CLI using pytest test_products_list.py in the same directory as the test file.
+2. Create a virtual env if it's needed using CLI python -m venv venv and activate it by running the activate file in <main_dir>/venv/Scripts.
+3. Install requirements.txt using CLI pip install -r requirements.txt.
+4. Run the tests in the CLI using pytest test_products_list.py in the same directory as the test file.
 
 
 ## Task
